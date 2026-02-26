@@ -122,7 +122,3 @@ And displays a confusion matrix heatmap.
 - `input_dim=23` assumes 23 features after dropping columns — adjust if your dataset differs.
 
 ---
-
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).# Cyber-Threat-Analysis-and-Mitigation-using-Deep-Learning
